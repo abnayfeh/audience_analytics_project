@@ -4,8 +4,8 @@ Audience Performance &amp; Pacing Analytics Dashboard + Automated Insights
 # Folder Setup
 audience_analytics_project/
 │
-├── data/
-│   ├── raw/
+├── data/  \\
+│   ├── raw/  \\
 │   └── processed/
 │
 ├── notebooks/
